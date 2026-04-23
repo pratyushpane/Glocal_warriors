@@ -1,6 +1,6 @@
-# CanSat Dashboard
+--CanSat Dashboard
 
-## Setup
+--Setup
 
 1. Install dependencies:
    pip install -r requirements.txt
@@ -18,8 +18,8 @@ ALT:120
 STATUS:ARMED
 DEPLOY:NO
 
-## Features
+--Features
 
-* Real-time altitude display
-* Deployment status
-* Live graph
+ Real-time altitude display
+ Deployment status
+ Live graph
