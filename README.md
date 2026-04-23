@@ -34,47 +34,5 @@ with a safe decent.
 
 
 
-OPENROCKET ROCKET DESIGN
-
-Abstract— This paper going to talk about the detail procedure of the making of the rocket whose target Apogee is
-
-minimum 1000 meters, with stable flight where the stability margin lie between the 1.0 to 2.0 calibers. The self recovery
-
-in which the descent rate is less than the 10m/s with the single rocket configuration. The body constraints of the rocket
-
-going to be as follows where the body diameter lie at 54mm (fixed) which is the fixed measurement for the rocket.
-
-Maximum lift-off mass going to be 1.5kg, material used in the rocket going to be the fiberglass body tube, maximum
-
-Mach number is going to be be below 0.8(subsonic preferred).
-
-Keywords— Rocket, Apogee, Dimensions
-
-<img width="1920" height="976" alt="Screenshot (719)" src="https://github.com/user-attachments/assets/a40ea367-9aaf-4812-af34-69b685f338cb" />
-
-
-
-
-
-Recreating the Cessna 210 (NASA Variant) Using OpenVSP
-
-Abstract— This paper going to talk about the detail procedure of the making of the Cessna 
-
-210(NASA Variant) using
-
-the OpenVSp. Making this project include different methods of retracing the image and giving the right ratio which are
-
-required to meet the given criteria present in the given project scenario. All dimension for making Cessna is properly
-
-trace with scientific methods, using different approach to get the required results different scientific methods are used
-
-during the completion and analysis of the given project. All the given dimension for different parts of the Cessna 210
-
-(NASA Variant) is properly trace and all the findings and the approach is discuss in this paper.
-
-Keywords— Cessna 210(NASA Varint), Aircraft Geometry, Dimensions
-
-<img width="1919" height="1003" alt="Screenshot 2026-04-03 110236" src="https://github.com/user-attachments/assets/8bddefb2-b633-490f-8540-610ec6e21ce2" />
-
 
 
