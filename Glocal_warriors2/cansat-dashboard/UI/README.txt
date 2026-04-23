@@ -12,7 +12,7 @@
 4. Run:
    python main.py
 
-## Arduino Output Format
+--Arduino Output Format
 
 ALT:120
 STATUS:ARMED
