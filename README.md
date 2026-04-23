@@ -1,8 +1,8 @@
-This file contain the complete project details for the Indian Space lab winter project 2025.
 
 
 
-TASK 1: Avionics PCB Design
+
+ Avionics PCB Design
 
 Abstract— This paper going to present the complete methodology for the designing of tbe CanSat Avionoics PCB design.
 
@@ -21,10 +21,9 @@ PCB. The main goal is to ensure fault proof, mission reliable and which gives ac
 deployment.
 
 
+ CanSat CAD DESIGN
 
-TASK 2: CanSat CAD DESIGN
-
-Abstract— This paper going to present the design and making off the CanSat, which a small satellite, which exactly fit
+ the design and making off the CanSat, which a small satellite, which exactly fit
 
 in the standard soda can. The main goal is to make a functional CansSat which have the compartment for the Avionics,
 
