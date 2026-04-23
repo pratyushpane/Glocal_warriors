@@ -4,8 +4,6 @@
 
  Avionics PCB Design
 
-Abstract— This paper going to present the complete methodology for the designing of tbe CanSat Avionoics PCB design.
-
 It going to include the schematic, system architecture, port assignment, schematic planning, redundancy consideration<img width="634" height="610" alt="Screenshot 2026-02-27 011834" src="https://github.com/user-attachments/assets/fb77f520-ae64-418e-97ce-6f7c3d8e59f1" />
 
 
