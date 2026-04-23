@@ -18,6 +18,8 @@ PCB. The main goal is to ensure fault proof, mission reliable and which gives ac
 
 deployment.
 
+<img width="855" height="579" alt="Screenshot 2026-02-27 012223" src="https://github.com/user-attachments/assets/add85fea-f233-4119-971b-4c1cd3d71415" />
+
 
  CanSat CAD DESIGN
 
